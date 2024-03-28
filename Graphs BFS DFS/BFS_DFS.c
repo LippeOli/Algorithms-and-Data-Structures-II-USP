@@ -91,7 +91,7 @@ int main() {
     // Demonstrando BFS e DFS
     int numVertices = MAX_VERTICES;
     
-    printf("\nDFS");
+    printf("DFS");
     bool visited[MAX_VERTICES] = {false};
     dfs(graph, 0, visited, numVertices);
 
