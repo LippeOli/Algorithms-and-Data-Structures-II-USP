@@ -1,3 +1,4 @@
+//BFS e DFS em grafos considerando a representação em Matriz de Adjacências
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
